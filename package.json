@@ -1,0 +1,27 @@
+{
+  "name": "satyam-bhaii-portfolio",
+  "version": "1.0.0",
+  "description": "A futuristic, dark-themed developer portfolio website showcasing projects and expertise in high-frequency C++ architectures and autonomous AI agents.",
+  "main": "cloudflare-server.js",
+  "scripts": {
+    "start": "node cloudflare-server.js",
+    "dev": "node cloudflare-server.js",
+    "build": "echo 'Build completed'",
+    "deploy": "wrangler pages deploy"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "futuristic",
+    "dark-theme",
+    "neon",
+    "javascript",
+    "css",
+    "html"
+  ],
+  "author": "Satyam Bhaii",
+  "license": "MIT"
+}

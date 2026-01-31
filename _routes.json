@@ -1,0 +1,6 @@
+# This is a _routes.json file for Cloudflare Pages
+{
+  "version": 1,
+  "include": ["/"],
+  "exclude": ["/static/*", "/assets/*", "/images/*"]
+}

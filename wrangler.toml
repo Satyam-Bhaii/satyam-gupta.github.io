@@ -1,0 +1,9 @@
+name = "satyam-bhaii-portfolio"
+compatibility_date = "2023-12-01"
+
+[env.production]
+account_id = "YOUR_ACCOUNT_ID"
+route = "yourdomain.workers.dev/*"
+
+[site]
+bucket = "./"
