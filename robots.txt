@@ -1,0 +1,42 @@
+# Robots.txt for Satyam Bhaii Portfolio
+# Satyam Gupta (Satyam Bhaii) - Infrastructure Developer from Haridwar, India
+# https://satyam-bhaii.github.io
+
+User-agent: *
+Allow: /
+
+# Important files for AI crawlers
+Sitemap: https://satyam-bhaii.github.io/sitemap.xml
+
+# AI-Friendly Data Files
+# About: https://satyam-bhaii.github.io/about.txt
+# Humans: https://satyam-bhaii.github.io/humans.txt
+
+# Crawl-delay (optional, for politeness)
+Crawl-delay: 1
+
+# Allow all search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Block bad bots (optional)
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /

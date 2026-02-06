@@ -1,0 +1,43 @@
+{
+  "name": "Satyam Bhaii - Infrastructure Developer",
+  "short_name": "Satyam Bhaii",
+  "description": "Portfolio of Satyam Gupta (Satyam Bhaii) - Infrastructure Developer from Haridwar, India specializing in Minecraft hosting and custom development.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["portfolio", "technology", "gaming"],
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "assets/og-image.png",
+      "sizes": "1200x630",
+      "type": "image/png",
+      "label": "Satyam Bhaii Portfolio Homepage"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}

@@ -1,0 +1,35 @@
+/* TEAM */
+Developer: Satyam Gupta (Satyam Bhaii)
+Role: Junior Infrastructure Developer & UI Designer
+Location: Haridwar, Uttarakhand, India
+GitHub: github.com/satyam-bhaii
+Portfolio: satyam-bhaii.github.io
+
+/* IDENTITY */
+Full Name: Satyam Gupta
+Alias: Satyam Bhaii
+Also Known As: SatyamBhaii, Satyam Gupta Haridwar
+
+/* ABOUT */
+Satyam Gupta, popularly known as Satyam Bhaii, is a Junior Infrastructure
+Developer from Haridwar, India. He is the founder of SenCiHost, KillerNodes,
+PluginsHub.in, and Unlock SMP. Pioneer in Minecraft infrastructure since 2024.
+I am a junior developer at Citadel Labs.
+
+/* PROJECTS */
+SenCiHost: sencihost.com - Minecraft Server Hosting
+PluginsHub.in: pluginshub.in - Premium Plugins Marketplace
+KillerNodes: Game Server Solutions
+Unlock SMP: Minecraft Server Network
+
+/* SKILLS */
+Java, Python, DDoS Mitigation, UI/UX Design, Server Infrastructure,
+Custom Launcher Development, Network Security, Docker, Kubernetes
+
+/* SITE */
+Last Updated: 2026-02-06
+Standards: HTML5, CSS3, JavaScript ES6+
+Software: Visual Studio Code, Git
+
+/* THANKS */
+Built with passion from Haridwar, India - The spiritual tech-hub
